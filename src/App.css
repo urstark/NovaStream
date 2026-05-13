@@ -1,0 +1,14 @@
+/*
+ * NovaStream
+ * Developed by: urstarkz
+ * Telegram: t.me/urstarkz
+ * Instagram: urstarkz
+ * Website: urstark.is-a.dev
+ */
+
+/* Sub-component specific overrides */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
